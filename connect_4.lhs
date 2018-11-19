@@ -82,7 +82,7 @@ This function change the player in an alternate way.
 > next O = X
 > next X = O
 
-(The reason I haven't define "turn" function is that my minimax function
+(The reason I haven't define turn function is that my minimax function
 takes a Player parameter, see the following definiton.)
 
 ----------------------------------------------------------------------
